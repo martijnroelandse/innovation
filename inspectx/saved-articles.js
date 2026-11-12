@@ -1,0 +1,1 @@
+globalThis.ReflexSavedArticles = {"doi": "10.1007/s00442-026-06006-0", "pmcid": "13714135", "path": "data/heatwave.xml", "retrieved": "2026-11-12T08:02:16.694690+00:00", "source": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC13714135/fullTextXML"};
