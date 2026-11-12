@@ -1,4 +1,4 @@
-# Innovation — STM conference prototypes
+# Innovation: STM conference prototypes
 
 Three separate experiments for STM Innovation & Integrity Days 2026:
 - [DeltaX](deltax/): compare manuscript versions.
