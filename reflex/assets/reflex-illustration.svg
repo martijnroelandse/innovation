@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="t"><title id="t">Test cases with known answers pass through a checking tool, and its results are weighed</title>
+<defs><filter id="s" x="-10%" y="-10%" width="120%" height="130%"><feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#3a1a26" flood-opacity=".12"/></filter></defs>
+<rect width="1600" height="900" rx="40" fill="#f6efea"/>
+<path d="M0 650 C 320 570 560 770 900 700 S 1400 580 1600 630 V 900 H 0 Z" fill="#f6dde4"/>
+<path d="M0 730 C 380 660 620 830 980 770 S 1420 670 1600 710 V 900 H 0 Z" fill="#efcdd8" opacity=".6"/>
+<g filter="url(#s)">
+<rect x="150" y="190" width="300" height="130" rx="18" fill="#fff" stroke="#e2cdd3" stroke-width="3"/>
+<rect x="150" y="360" width="300" height="130" rx="18" fill="#fff" stroke="#e2cdd3" stroke-width="3"/>
+<rect x="150" y="530" width="300" height="130" rx="18" fill="#fff" stroke="#e2cdd3" stroke-width="3"/></g>
+<g stroke="#4a2433" stroke-width="8" stroke-linecap="round"><path d="M185 235h150M185 272h110M185 405h150M185 442h120M185 575h150M185 612h90"/></g>
+<g font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#8a6a74" letter-spacing="2"><text x="185" y="300">EXPECTED: FLAG</text><text x="185" y="470">EXPECTED: CLEAR</text><text x="185" y="640">EXPECTED: FLAG</text></g>
+<g fill="none" stroke="#c62d67" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 13"><path d="M450 255 C 560 255 580 420 660 420"/><path d="M450 425 H 660"/><path d="M450 595 C 560 595 580 430 660 430"/></g>
+<g filter="url(#s)"><rect x="660" y="300" width="270" height="250" rx="28" fill="#4a2433"/></g>
+<g transform="translate(795 425)" fill="none" stroke="#f6dde4" stroke-width="14"><circle r="46"/><path d="M0 -78v22M0 56v22M-78 0h22M56 0h22M-55 -55l15 15M40 40l15 15M-55 55l15 -15M40 -40l15 -15" stroke-linecap="round"/></g>
+<text x="795" y="600" font-family="Georgia,serif" font-size="34" fill="#4a2433" text-anchor="middle">tool under test</text>
+<path d="M930 425 H 1010" stroke="#c62d67" stroke-width="6" stroke-linecap="round"/><path d="M1000 410l20 15-20 15" fill="none" stroke="#c62d67" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<g filter="url(#s)"><rect x="1040" y="190" width="420" height="470" rx="22" fill="#fff" stroke="#e2cdd3" stroke-width="3"/></g>
+<g font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#8a6a74" letter-spacing="2"><text x="1080" y="250">CAUGHT</text><text x="1080" y="350">MISSED</text><text x="1080" y="450">FALSE ALERTS</text><text x="1080" y="550">NOT ASSESSED</text></g>
+<rect x="1080" y="266" width="340" height="22" rx="11" fill="#f3e6ea"/><rect x="1080" y="266" width="250" height="22" rx="11" fill="#14b3a6"/>
+<rect x="1080" y="366" width="340" height="22" rx="11" fill="#f3e6ea"/><rect x="1080" y="366" width="70" height="22" rx="11" fill="#c62d67"/>
+<rect x="1080" y="466" width="340" height="22" rx="11" fill="#f3e6ea"/><rect x="1080" y="466" width="110" height="22" rx="11" fill="#e58aa9"/>
+<rect x="1080" y="566" width="340" height="22" rx="11" fill="#f3e6ea"/><rect x="1080" y="566" width="160" height="22" rx="11" fill="#bfb1b6"/>
+<g transform="translate(1440 700)"><circle r="62" fill="#c62d67"/><text y="20" font-family="Georgia,serif" font-size="62" fill="#fff" text-anchor="middle">€</text></g>
+</svg>
