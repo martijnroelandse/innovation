@@ -1,6 +1,6 @@
 # Innovation: STM conference prototypes
 
-Three separate experiments for STM Innovation & Integrity Days 2026:
+Three separate experiments for STM Innovation Day · 8 December 2026:
 - [DeltaX](deltax/): compare manuscript versions.
 - [InspectX](inspectx/): inspect papers, authors, source evidence and publication notices.
 - [RefleX](reflex/): stress-test tools and model organisational impact.
